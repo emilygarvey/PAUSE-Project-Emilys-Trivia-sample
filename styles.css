@@ -1,0 +1,26 @@
+.question2 {
+    display: none;
+}
+
+body {
+    font-family: Arial;
+}
+
+div {
+    margin: 30px;
+}
+
+.directions {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.answer1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.answer2 {
+    font-size: 20px;
+    font-weight: bold;
+}
